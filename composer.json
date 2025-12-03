@@ -1,0 +1,16 @@
+{
+    "name": "nguyenhoaichuong/task-tracker",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "naninani2xx1",
+            "email": "nhchuong2001@gmail.com"
+        }
+    ],
+    "require": {}
+}
